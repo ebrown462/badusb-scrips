@@ -2,6 +2,6 @@ LOCAL GB
 DELAY 1000
 GUI r
 DELAY 300
-STRING shutdown -s -t 1 -c "haha"
+STRING shutdown -s -t 1 -c "Your PC is shutting down"
 DELAY 300
 ENTER
